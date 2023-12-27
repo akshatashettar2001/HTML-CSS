@@ -1,0 +1,40 @@
+/* list-style-type */
+/* unordered list */
+#a{
+    list-style-type:none;
+}
+#b{
+    list-style-type:square;
+}
+#c{
+    list-style-type:circle;
+}
+#d{
+    list-style-type:disc;
+}
+#e{
+    list-style-type:georgian;
+}
+#f{
+    list-style-type:armenian;
+}
+
+/* ordered list */
+.a{
+    list-style-type: upper-alpha;
+}
+.b{
+    list-style-type: lower-alpha;
+}
+.c{
+    list-style-type: upper-latin;
+}
+.d{
+    list-style-type: lower-latin;
+}
+.e{
+    list-style-type: upper-roman;
+}
+.f{
+    list-style-type: lower-roman;
+}

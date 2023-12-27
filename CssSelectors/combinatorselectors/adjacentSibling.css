@@ -1,0 +1,19 @@
+div+h3{
+    background-color: yellow;
+    color:blue;
+}
+
+section+h3{
+    background-color: brown;
+    color:darkmagenta;
+}
+
+h3+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+    background-color: red;
+}
+
+h1+h2{
+    color:red;
+}

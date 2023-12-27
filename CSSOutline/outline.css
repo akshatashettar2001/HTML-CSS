@@ -1,0 +1,20 @@
+section p {
+    border: 3px solid skyblue;
+    outline-width: 3px;
+    outline-style: inset;
+    outline-color: brown;
+}
+
+/* shorthand property */
+.a {
+    border: 2px solid black;
+    outline: 5px groove red;
+}
+
+
+/* outline-offset */
+.b {
+    border: 6px solid rgb(247, 31, 31);
+    outline: 5px ridge purple;
+    outline-offset: 2px;
+}

@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(252, 54, 54);
+    color:aqua;
+    text-align: left;
+    font-size: 15px;
+    font-family:cursive;
+}
+
+form{
+    background-color:rgb(136, 60, 236);
+    color:black;
+    border:2px solid white;
+    text-align: right;
+}

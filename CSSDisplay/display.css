@@ -1,0 +1,49 @@
+/* Block Level Elements */
+#block{
+    background-color: black;
+    color:white;;
+}
+
+/* Inline Elements */
+#inline{
+    color:white;
+}
+a{
+    background-color: red;
+}
+code{
+    background-color: rgb(10, 10, 0);
+}
+span{
+    background-color: blue;
+}
+img{
+    background-color: purple;
+}
+i{
+    background-color: darkgreen;
+}
+b{
+    background-color: brown;
+}
+u{
+    background-color: darkred;
+}
+button{
+    background-color: green;
+}
+
+/* Making Block level elements to Inline elements */
+.a{
+    background-color: black;
+    color:white;
+    display:inline;
+}
+
+/* Making Inline Elements to Block Level Elements */
+
+.b{
+    background-color: rgb(233, 8, 8);
+    color:rgb(12, 11, 11);
+    display:block;
+}

@@ -1,0 +1,105 @@
+/* text color,text-align,direction,unicode-bidirection */
+#a{
+    color:rgb(105, 4, 4);
+    text-align:end;
+}
+#b{
+    color:blue;
+    text-align:center;
+}
+#c{
+    color:rgb(233, 100, 122);
+    direction:ltr;
+}
+#d{
+    color:red;
+    direction:rtl;
+}
+#e{
+    color:rgb(111, 182, 6);
+    unicode-bidi:bidi-override;
+}
+#f{
+    color:rgb(88, 19, 167);
+    unicode-bidi:embed;
+}
+#g{
+    color:rgb(201, 24, 24);
+    unicode-bidi:isolate;
+}
+#h{
+    color:rgb(108, 202, 20);
+    unicode-bidi:isolate-override;
+}
+#h{
+    color:rgb(167, 24, 60);
+    unicode-bidi:plaintext;
+}
+
+/* Text Decoration */
+#j{
+    text-decoration: none;
+}
+#k{
+    text-decoration: overline;
+}
+#l{
+    text-decoration: none;
+}
+span{
+    text-decoration: line-through;
+}
+
+/* Text Transform */
+#m{
+    text-transform: uppercase;
+}
+#n{
+    text-transform: lowercase;
+}
+#o{
+    text-transform: capitalize;
+}
+
+/* Text-Indent */
+#p{
+    text-indent:80px;
+}
+
+/* Letter-Spacing */
+#q{
+    letter-spacing: 2px;
+}
+
+/* Word-Spacing */
+#r{
+    word-spacing: 6px;
+}
+
+/* Line-Height */
+#s{
+    line-height: 30px;
+}
+
+/* White-Space  */
+#t{
+    white-space: nowrap;
+}
+
+/* Text-Shadow */
+#u{
+    color:rgb(104, 6, 6);
+    font-weight: bold;
+    font-size:50px;
+    text-shadow: 4px 4px 8px green;
+}
+
+/* Multiple color text shadow */
+#v{
+    color:rgb(209, 53, 113);
+    font-size:60px;
+    font-family:cursive;
+    font-style:oblique;
+    font-weight:800px;
+    text-shadow: 6px 4px 5px black,3px 2px 1px rgb(16, 233, 70);
+}

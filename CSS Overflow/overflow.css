@@ -1,0 +1,47 @@
+.visible{
+    border:1px solid black;
+    height:150px;
+    width:250px;
+}
+
+.hidden{
+    overflow: hidden;
+    border:1px solid black;
+    height:150px;
+    width:250px;
+}
+
+.scroll{
+    overflow: scroll;
+    border:1px solid black;
+    height:150px;
+    width:250px;
+}
+
+.auto{
+    overflow: auto;
+    border:1px solid black;
+    height:150px;
+    width:250px;
+}
+
+.auto1{
+    overflow: auto;
+    border:1px solid black;
+    height:100px;
+    width:100px;
+}
+
+.overflow-x{
+    overflow-x: scroll;
+    border:1px solid black;
+    height:150px;
+    width:250px;
+}
+
+.overflow-y{
+    overflow-y: scroll;
+    border:1px solid black;
+    height:150px;
+    width:250px;
+}

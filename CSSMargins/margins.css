@@ -1,0 +1,32 @@
+div {
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+/* Shorthand Property */
+
+/* 4 values */
+#m4{
+    border: 3px solid black;
+    margin:20px 30px 40px 50px;
+}
+
+/* 3 values */
+#m3{
+    border: 3px solid black;
+    margin:20px 30px 40px;
+}
+
+/* 2 values */
+#m2{
+    border: 3px solid black;
+    margin:30px 40px ;
+}
+
+/* 1 value */
+#m1{
+    border: 3px solid black;
+    margin:50px;
+}

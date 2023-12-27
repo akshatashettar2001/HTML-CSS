@@ -1,0 +1,71 @@
+/* font-style property */
+#a{
+    font-style:italic;
+}
+#b{
+    font-style:oblique;
+}
+#c{
+    font-style: normal;
+}
+
+/* font-weight property */
+.a{
+    font-weight: bold;
+}
+.b{
+    font-weight: bolder;
+}
+.c{
+    font-weight: normal;
+}
+.d{
+    font-weight: 200;
+}
+.e{
+    font-weight: 400;
+}
+.f{
+    font-weight: 700;
+}
+.g{
+    font-weight: 900;
+}
+
+/* font-size property */
+.h{
+    font-size: large;
+}
+.i{
+    font-size: larger;
+}
+.j{
+    font-size:medium;
+}
+.k{
+    font-size:small;
+}
+.l{
+    font-size: smaller;
+}
+.m{
+    font-size:x-large;
+}
+.n{
+    font-size:x-small;
+}
+.o{
+    font-size:xx-large;
+}
+.p{
+    font-size:xx-small;
+}
+.q{
+    font-size:100px;
+}
+.r{
+    font-size:10vw;
+}
+.s{
+    font-size:100;
+}

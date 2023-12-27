@@ -1,0 +1,45 @@
+#solid{
+    border-width: 3px;
+    border-style:solid;
+    border-color:blue;
+}
+
+/* shorthand property */
+#dashed{
+    border:10px dashed rgb(238, 131, 131);
+}
+
+#dotted{
+    border:10px dotted brown;
+}
+
+#double{
+    border:10px double brown;
+}
+
+#groove{
+    border:10px groove rgb(240, 85, 162);
+}
+
+#ridge{
+    border:10px ridge rgb(175, 46, 117);
+}
+
+#inset{
+    border:10px inset rgb(64, 177, 230);
+}
+
+#hidden{
+    border:10px hidden rgb(218, 70, 144);
+}
+
+#none{
+    border:10px none rgb(56, 195, 219);
+}
+
+/* Rounded Corners */
+.z{
+    border:10px inset rgb(118, 231, 52);
+    border-radius: 5px;
+}
+

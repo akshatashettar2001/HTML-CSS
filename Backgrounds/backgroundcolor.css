@@ -1,0 +1,12 @@
+div{
+    background-color: aqua;
+}
+
+*{
+    background-color: black;
+    color:aliceblue;
+    font-family:fantasy;
+    font-weight: 300;
+    font-style: oblique;
+    font-size: 3vw;
+}

@@ -1,0 +1,19 @@
+section p{
+    background-color: brown;
+    color:black;
+    text-align: start;
+    font-size: 15px;
+}
+
+form{
+    background-color: violet;
+    color:black;
+    font-weight: bold;
+    border:2px solid black;
+}
+
+div p{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+

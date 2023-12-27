@@ -1,0 +1,32 @@
+div {
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+/* Shorthand Property */
+
+/* 4 values */
+#p4{
+    border: 3px solid black;
+    padding:20px 30px 40px 50px;
+}
+
+/* 3 values */
+#p3{
+    border: 3px solid black;
+    padding:20px 30px 40px;
+}
+
+/* 2 values */
+#p2{
+    border: 3px solid black;
+    padding:30px 40px ;
+}
+
+/* 1 value */
+#p1{
+    border: 3px solid black;
+    padding:50px;
+}

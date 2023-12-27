@@ -1,0 +1,39 @@
+/* [attribute] : select elements with a specified attribute */
+input[placeholder]{
+    background-color: yellow;
+    color:darkred;
+}
+
+/* [attribute="value"] : select element with an attribute value containing specified word and word must be whole word*/
+input[placeholder="address"]{
+    font-family: cursive;
+    font-size:20px;
+}
+
+/* [attribute~="value"] : attribute value containing a specified word */
+p[class~="run"]{
+    background-color: black;
+    color:white;
+}
+
+/* [attribute|="value"] : attribue starting with specified word and the word should be whole word */
+p[class|="bun"]{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* [attribute^="value"] : attribute start with specified word and word does not have to be whole word */
+p[class^="bun"]{
+    border:3px dashed orangered;
+}
+
+
+/* [attribute$="value"] : attribute ends with the specified word and word doesnot have to be whole word */
+p[class$=sun]{
+    outline:3px solid brown;
+}
+
+/* [attribute*="value"] : attribute contains a specified word ,word does not to be whole word */
+p[class*="bu"]{
+    text-shadow: 3px 3px 2px lightcoral;
+}

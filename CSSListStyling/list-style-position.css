@@ -1,0 +1,16 @@
+ul{
+    background-color: green;
+    color:yellow;
+    width:50%;
+    list-style-position: outside;
+}
+
+ol{
+    background-color: rgb(226, 230, 24);
+    color:green;
+    list-style-position: inside;
+}
+
+li{
+    background-color: black;
+}

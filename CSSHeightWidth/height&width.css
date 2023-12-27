@@ -1,0 +1,29 @@
+/* Height and Width */
+.a{
+    height: 100px;
+    width:1000px;
+}
+
+.b{
+    border:2px solid black;
+    height:200px;
+    width:500px;
+}
+
+/* max-height and max-width */
+.c{
+    border:2px solid green;
+    max-height: 100px;
+    max-width: 600px;
+    height:200px;
+    width:500px;
+}
+
+/* min-heigth and min-width */
+.d{
+    border:2px solid green;
+    min-height: 100px;
+    min-width: 300px;
+    height:120px;
+    width:500px;
+}

@@ -1,0 +1,12 @@
+ul{
+    list-style-image: url(297884910_607445807567441_7371305674255500341_n.jpg);
+}
+
+ul::marker{
+    font-size: 50px;
+}
+
+li{
+    width: 20px;
+    height: 20px;
+}

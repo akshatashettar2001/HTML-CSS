@@ -1,0 +1,40 @@
+/* by color name */
+.color{
+    background-color: lightseagreen;
+    color:black;
+}
+
+/* by rgb value */
+.rgb{
+    background-color: rgb(197, 103, 150);
+    color:rgb(10, 8, 8);
+}
+
+/* by rgba value */
+.rgba{
+    background-color: rgba(66, 2, 11,0.9);
+    color:white;
+}
+.rgba1{
+    background-color: rgba(66, 2, 11,0.5);
+    color:white;
+}
+
+/* by hex value */
+.hex{
+    background-color:#21da84;
+    color:#090a0a
+}
+
+/* by hsl value */
+.hsl{
+    background-color: hsl(51, 50%, 60%);
+    color:hsl(0, 88%, 13%)
+}
+
+/* by hsla value */
+.hsla{
+    background-color: hsla(0, 91%, 8%, 1.0);
+    color:hsla(195, 84%, 63%, 0.5)
+}
+

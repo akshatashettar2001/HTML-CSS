@@ -1,0 +1,36 @@
+/* Actual height of an html element
+    Formula:
+       [ Actual Height=
+        margin(top+bottom)+
+        border(top+bottom)+
+        padding(top+bottom)+
+        height of an element  ] 
+        
+        [actual height=(20+40)+(2+2)+(20+25)+150
+                      =259px ]  */
+p {
+    max-height: 200px;
+    margin: 20px 30px 40px 50px;
+    border: 2px solid pink;
+    padding: 20px 30px 25px;
+    height: 150px;
+}
+
+/* Actual width of an html element
+    Formula:
+       [ Actual Width=
+        margin(left+right)+
+        border(left+right)+
+        padding(left+right)+
+        width of an element  ] 
+        
+        [actual width=(30+30)+(3+3)+(20+20)+600
+                     = 706]  */
+
+div                     {
+    min-width: 600px;
+    margin: 20px 30px;
+    border: 3px solid rgb(112, 35, 48);
+    padding: 20px;
+    width: 150px;
+}

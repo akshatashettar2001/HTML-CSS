@@ -1,0 +1,10 @@
+
+
+try{__tagObject_callback_1702227655469830({ImpressionID:"46ae4ec7cd3b44faa4801c8153129413", ServerPublicDns:"rtbc-ae1.doubleverify.com"});}catch(e){}
+try{$dvbs.pubSub.publish('BeforeDecisionRender', "46ae4ec7cd3b44faa4801c8153129413");}catch(e){}
+try{__verify_callback_1702227655469830({
+ResultID:1,
+Passback:"%3Ca%20href%3D%22https%3A%2F%2Fwww.pathtosuccess.global%22%20target%3D%22_blank%22%3E%3Cimg%20src%3D%22https%3A%2F%2Fcdn.pathtosuccess.global%2FDV_GlobalPassback_Update_300x600.jpg%22%20width%3D%22300%22%20height%3D%22600%22%3E%3C%2Fa%3E",
+AdWidth:300,
+AdHeight:600});}catch(e){}
+try{$dvbs.pubSub.publish('AfterDecisionRender', "46ae4ec7cd3b44faa4801c8153129413");}catch(e){}

@@ -1,0 +1,32 @@
+table,th{
+    background-color: rgb(34, 31, 31);
+    border:3px ridge rgb(88, 2, 2);
+    color:rgb(17, 240, 17);
+    text-shadow: 2px 2px 1px rgb(241, 241, 107);
+    font-size:30px;
+}
+td{
+    background-color: rgb(90, 117, 117);
+    border:1px solid brown;
+    color:rgb(243, 97, 158);
+    font-size:25px;
+    text-shadow:1px 1px 1px rgb(240, 166, 139);
+}
+table,th,td{
+    width:50%;
+    border-collapse:collapse;
+    text-align: center;
+    margin: 30px;
+    padding:20px;
+    
+}
+
+/* applying effects */
+th:hover{
+    background-color: black;
+    color:white;
+}
+td:hover{
+    background-color: white;
+    color:black;
+}

@@ -1,0 +1,24 @@
+p{
+    background-color: rgb(73, 245, 73);
+    color:black;
+}
+#a{
+    background-color: rgb(73, 245, 73);
+    color:black;
+}
+
+#b{
+    background-color: rgb(73, 245, 73);
+    color:black;
+    display:none;
+}
+
+#c{
+    background-color: rgb(73, 245, 73);
+    color:black;
+    visibility:hidden;
+}
+#d{
+    background-color: rgb(73, 245, 73);
+    color:black;
+}

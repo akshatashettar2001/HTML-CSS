@@ -1,0 +1,69 @@
+/* to make text color and remove underline */
+.a{
+    color:red;
+    text-decoration: none;
+}
+
+/* make text look like a button */
+#a{
+    color:white;
+    text-decoration: none;
+    font-size:30px;
+    font-family: fantasy;
+    border:2px solid white;
+    padding:6px;
+    background-color: rgb(12, 70, 146);
+}
+#b{
+    color:rgb(7, 7, 7);
+    text-decoration: none;
+    font-size:30px;
+    font-family: fantasy;
+    border:2px solid white;
+    padding:6px;
+    background-color: rgb(230, 37, 165);
+}
+#c{
+    color:white;
+    text-decoration: none;
+    font-size:30px;
+    font-family: fantasy;
+    border:2px solid white;
+    padding:6px;
+    background-color: rgb(236, 1, 1);
+}
+#d{
+    text-decoration: none;
+    font-size:30px;
+    font-family:cursive;
+    border:2px solid rgb(159, 236, 14);
+    padding:6px;
+  
+}
+#e{
+    color:white;
+    text-decoration: none;
+    font-size:30px;
+    font-family: fantasy;
+    border:2px solid white;
+    padding:6px;
+    background-color: rgb(6, 128, 23);
+}
+
+/* four states of a link */
+#d:link{
+    color:white;
+    background-color: red;
+}
+#d:visited{
+    color:white ;
+    background-color:black ;
+}
+#d:hover{
+    color:white;
+    background-color: blue;
+}
+#d:active{
+    color:black;
+    background-color: green;
+}

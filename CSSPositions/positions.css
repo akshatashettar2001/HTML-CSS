@@ -1,0 +1,40 @@
+/* position:relative */
+.b{
+    background-color: yellow;
+    position: relative;
+    top:263px;
+    left:571px;
+    display:inline;
+}
+
+/* position:fixed */
+.c{
+    background-color: aqua;
+    position:fixed;
+    top:200px;
+    right:0px;
+}
+
+/* position:sticky  */
+.e{
+    background-color: blueviolet;
+    color:black;
+    position:sticky;
+    top:0px;
+}
+
+/* position:absolute */
+.parent{
+    position:relative;
+    border:2px solid Green;
+    height:300px;
+    width:50%;
+}
+.child{
+    position: absolute;
+    top:30px;
+    right:0;
+    border:1px solid red;
+    height: 150px;
+    width:25%;
+}

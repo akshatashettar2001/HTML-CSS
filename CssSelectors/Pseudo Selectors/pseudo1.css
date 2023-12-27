@@ -1,0 +1,7 @@
+div>p:first-child{
+    background-color: black;
+    color:white;
+}
+div p:last-child{
+    background-color: orange;
+}

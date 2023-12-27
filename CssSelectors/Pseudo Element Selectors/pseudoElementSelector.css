@@ -1,0 +1,51 @@
+/* 1) */
+.line::first-line{
+    background-color: yellow;
+}
+
+/* 2) */
+.letter::first-letter{
+    font-size:20px;
+    color:blue;
+}
+
+/* 3) */
+/* adding text */
+#content::before{
+    content:"Hello Guys";
+}
+
+#content::after{
+    content:"CSS Content";
+}
+
+/* adding image */
+#image::before{
+    content:url(https://tse1.mm.bing.net/th?id=OIP.JV64WHuu4CanFyJCOpCOewHaE8&pid=Api&P=0&h=180);
+}
+
+#image::after{
+    content:url(https://tse2.mm.bing.net/th?id=OIP.m0wC7ZlQq8VuoO7v5AhvNgHaHa&pid=Api&P=0&h=180);
+}
+
+/* adding gif */
+.gif::before{
+    content:url(http://www.animatedgif.net/new/newns2_e0.gif);
+}
+
+.gif::after{
+    content:url(http://www.animatedgif.net/new/newns2_e0.gif);
+}
+
+/* 4) */
+::marker{
+    color:rgb(105, 5, 67);
+    font-size:20px;
+    font-weight: bold;
+}
+
+/* 5) */
+.select::selection{
+    background-color: yellow;;
+    color:rgb(231, 8, 45)
+}
